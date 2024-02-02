@@ -21,7 +21,7 @@ Estou em uma constante de aprendizado procurando desafios e oportunidades na ár
  ☎️ Link para contato:
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-marques-negalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-m-negalho)
 
 <p align="left">
  🔎 Meus status:
