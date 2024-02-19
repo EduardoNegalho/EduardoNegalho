@@ -1,7 +1,7 @@
 ### Hello World, Eduardo Marques aqui 👋🏼
 
 <p align="left"> 
-  Sou de Brasília, tenho 20 anos e sou <strong>Desenvolvedor Back-End</strong>.
+  Sou de Brasília, tenho 20 anos e sou <strong>Desenvolvedor Front-End</strong>.
 
 Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá de Brasília, estou determinado a aprender e ter mais conhecimento na área da programação, sempre com foco e constância para que eu possa alcançar os meus objetivos de carreira e de vida!
 
